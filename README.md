@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Random Projects**
 
-- 🌱 I’m currently learning **FrontEnd, BackEnd Development**
+- 🌱 I’m currently learning **FrontEnd, Learing & Working in progress 👉🏻 BackEnd Development**
 
 - 📫 How to reach me **yasirnasir501@gmail.com**
 
